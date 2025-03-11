@@ -14,7 +14,8 @@ function transformY(y) {
 }
 
 // Colors for the clusters
-const colors = ["#e41a1c", "#377eb8", "#4daf4a"]; // red, blue, green
+// const colors = ["#e41a1c", "#377eb8", "#4daf4a"]; // red, blue, green
+const colors = ["#FF0000", "#FFFF00", "#0000FF"];
 
 // Data structures
 const numPoints = 20;
